@@ -1,5 +1,6 @@
 fx_version 'bodacious'
-game 'common'
+game 'gta5'
+version '0.1.0'
 
 server_script "server/sv_queue_config.lua"
 server_script "connectqueue.lua"
